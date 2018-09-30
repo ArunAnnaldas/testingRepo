@@ -9,4 +9,8 @@ public class LoginTest {
 		System.out.println("Test1");
 	}
 	
+	public void loginPageSet(){
+		System.out.println("Login in");
+	}
+	
 }
